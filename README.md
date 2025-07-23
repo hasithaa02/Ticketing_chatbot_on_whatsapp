@@ -1,7 +1,6 @@
-# WhatsApp Chatbot-Based Ticketing System 🎫🤖
+# Ticketing Chatbot On Whatsapp
 
-A multilingual WhatsApp chatbot designed to simplify the ticket booking process, provide information on exhibitions and events, and offer customer support using AI-powered responses. The system interacts directly with users on WhatsApp, offering them a seamless and intuitive ticketing experience.
-
+A full-stack, multilingual WhatsApp chatbot built to streamline the event and ticketing process. Designed to provide end-to-end customer interaction, real-time event updates, and AI-powered support via conversational automation. This project simulates real-world enterprise use cases with a focus on clean architecture, scalable backend design, and cross-functional development patterns.
 ## Features ✨
 
 - **Multilingual Support**: Available in both English and Hindi for a wider audience.
@@ -50,5 +49,14 @@ Here’s a high-level overview of the system flow for the WhatsApp Chatbot-Based
 4. Start the chatbot:
   ```bash
    npm start
+```
+## Highlights for Employers (Booking Holdings Perspective)
+- Demonstrates strong full-stack skills, REST API usage, and messaging integration.
+
+- Reflects core interests in software engineering, platform-based tools, and enterprise logic flows.
+
+- Shows real-world use of AI for scalable customer engagement.
+
+- Developed in an agile mindset with focus on modularity, maintainability, and user-centric design.
 
 
